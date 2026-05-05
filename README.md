@@ -9,7 +9,7 @@ There may be slight delays, but this is intentional to avoid GitHub rate limits 
 
 This tool was created by the three of us because of the constant internet disruptions in Iran, so we can stay in touch ourselves and keep our work going.
 [Hani](https://github.com/hani-777)
-[Mani](https://github.com/Mohammadreza-Nemati)
+[Mani](https://github.com/mani-nemati)
 [Rexa](https://github.com/thisisrexa)
 
 ---
